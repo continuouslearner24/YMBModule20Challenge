@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/YMBModule20Challenge/static/css/main.d72c5cd5.css",
+    "main.js": "/YMBModule20Challenge/static/js/main.42f00a1c.js",
+    "static/js/453.bb257cf5.chunk.js": "/YMBModule20Challenge/static/js/453.bb257cf5.chunk.js",
+    "static/media/ava.png": "/YMBModule20Challenge/static/media/ava.fe13795f6c0b74c65b9b.png",
+    "index.html": "/YMBModule20Challenge/index.html",
+    "main.d72c5cd5.css.map": "/YMBModule20Challenge/static/css/main.d72c5cd5.css.map",
+    "main.42f00a1c.js.map": "/YMBModule20Challenge/static/js/main.42f00a1c.js.map",
+    "453.bb257cf5.chunk.js.map": "/YMBModule20Challenge/static/js/453.bb257cf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d72c5cd5.css",
+    "static/js/main.42f00a1c.js"
+  ]
+}
